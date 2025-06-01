@@ -1190,4 +1190,9 @@ ul.social-icons li {
   color: #8f8f8f;
   line-height: 22px;
 }
-/*# sourceMappingURL=style.css.map */
+
+.lattes-link {
+    color: #007bff;
+    text-decoration: underline;
+    font-weight: bold;
+}
