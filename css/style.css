@@ -1192,7 +1192,7 @@ ul.social-icons li {
 }
 
 .lattes-link {
-    color: #007bff;
-    text-decoration: underline;
-    font-weight: bold;
+    color: #6d0a06;
+    /* text-decoration: underline; */
+    font-weight: 400  ;
 }
